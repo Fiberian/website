@@ -39,7 +39,7 @@ export const SIDEBAR: Sidebar = {
   Informasi: [
     { text: "Introduction", link: "introduction" },
     { text: "Tentang IMRP", link: "about-imrp" },
-    { text: "Informasi", link: "information" },
+    { text: "Informasi", link: "loader.lua" },
   ],
   Interaction: [
     { text: "Elements", link: "interactive-elements" },
